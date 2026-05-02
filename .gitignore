@@ -1,11 +1,8 @@
 # Dependencies
 node_modules/
-<<<<<<< HEAD
-=======
 package-lock.json
 bun.lockb
 yarn.lock
->>>>>>> 084db93 (Frontend + backend added)
 
 # Environment variables
 .env
